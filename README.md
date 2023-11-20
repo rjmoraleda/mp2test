@@ -3,8 +3,7 @@
 To get the project
 
 # step 1
-    git clone https://github.com/NoemitoJohn/EasyShop.git
-
+    git clone https://github.com/rjmoraleda/mp2test.git
 # step 2
     npm install
     npm update
