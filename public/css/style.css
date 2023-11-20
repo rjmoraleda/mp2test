@@ -6,9 +6,9 @@ body{
 }
  
 :root{
-    --black: #0F0F0F;
+    --black: gray;
     --darkgray: #1E1E24;
-    --red:  #AF1B3F;
+    --red:  lightblue;
 }
 
 #MainContainer{
@@ -157,7 +157,7 @@ body{
 	width: 100%;
 	height: 100px;
 	font-family: "Arial", Helvetica, sans-serif;
-	font-size: 40px;
+	font-size: 375px;
 	background-color: var(--black);
 	display: flex;
 	align-items: center;
@@ -174,9 +174,9 @@ body{
 .LogoImg {
 	width: 15%;
 	height: 100%;
-	float: left;
+	float: left;s
 	line-height: 2.5em;
-	flex:1;
+	flex:2;
 }
 
 .LogoImg img{
